@@ -699,7 +699,7 @@ a newly diagnosed critically ill patient with Ph-negative B-ALL.`
   return (
     <div className="text-container">
       <header>
-        <h1>Blina Frontline Pediátrico</h1>
+        <h1>Blina Frontline Adulto</h1>
       </header>
 
       {array1to60.map((item, index) => {
