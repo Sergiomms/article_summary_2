@@ -8,6 +8,7 @@
 .image-container {
   width: auto;
   height: auto;
+  margin-bottom: 20px;
 }
 
 .image {
@@ -15,10 +16,6 @@
   height: auto;
 }
 
-
-.text {
-  margin-bottom: 10px;
-}
 
 .keypad {
   display: grid;
